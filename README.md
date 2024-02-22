@@ -8,6 +8,11 @@ As of now we have no license selected meaning that the following rules apply:
 Source: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository
 
 ===================================
+Naming conventions
+===================================
+The following link provides a good summary => https://www.linkedin.com/pulse/react-js-naming-convention-kristiyan-velkov/
+
+===================================
 Project Folder Structure Explanation
 ===================================
 
