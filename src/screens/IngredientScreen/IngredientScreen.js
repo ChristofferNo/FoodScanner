@@ -2,13 +2,13 @@ import React from "react";
 import { View, Button, Text, StyleSheet } from "react-native";
 import { colors, commonStyles, fonts } from "../../themes";
 
-const HomePage = ({ navigation }) => {
+const IngredientScreen = ({ navigation }) => {
   return (
     <View style={styles.container}>
-      <Text style={fonts.boldFont}>Welcome to FoodScanner!</Text>
+      <Text style={fonts.boldFont}></Text>
       <Button
         onPress={() => {
-          navigation.navigate("ScanPage");
+          navigation.navigate("ScanScreen");
         }}
         title="Scan"
         color={colors.primaryColor}
@@ -28,4 +28,4 @@ styles = StyleSheet.create({
   welcome_text: { ...fonts.boldFont, fontSize: 18 },
 });
 
-export default HomePage;
+export default IngredientScreen;

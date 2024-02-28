@@ -17,12 +17,16 @@ const App = () => {
     <NavigationContainer>
       <Stack.Navigator>
         <Stack.Screen
-          name="HomePage"
-          component={Screens.HomePage}
+          name="HomeScreen"
+          component={Screens.HomeScreen}
         ></Stack.Screen>
         <Stack.Screen
-          name="ScanPage"
-          component={Screens.ScanPage}
+          name="ScanScreen"
+          component={Screens.ScanScreen}
+        ></Stack.Screen>
+        <Stack.Screen
+          name="IngredientScreen"
+          component={Screens.IngredientScreen}
         ></Stack.Screen>
       </Stack.Navigator>
     </NavigationContainer>

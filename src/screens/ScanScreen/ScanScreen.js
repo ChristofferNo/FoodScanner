@@ -1,7 +1,7 @@
 import React from "react";
 import { View, StyleSheet } from "react-native";
 
-const ScanPage = () => {
+const ScanScreen = () => {
   return (
     <View
       style={[
@@ -26,4 +26,4 @@ const styles = StyleSheet.create({
   },
 });
 
-export default ScanPage;
+export default ScanScreen;
