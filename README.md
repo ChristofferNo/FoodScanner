@@ -1,5 +1,6 @@
 # FoodScanner
-This creation belongs to Malte and Christoffer.
+An react-native app for your phone that scans you fridge, performs AI-analysis and gives you recipe suggestions.
+Runs an AI-integration
 
 In here is where we will and general info and guidelines about the Project.
 
